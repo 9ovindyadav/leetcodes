@@ -1,7 +1,8 @@
 # Easy Problems
 
 1.Counter
-
+2.Array Prototype last
+3.
 
 
 
