@@ -6,8 +6,8 @@
 4. Filter Elements from Array
 5. Two sum
 6. Check if Object isInstance of Class
-7. 
-8. 
+7. Palindrome
+8. Roman to Integer
 
 **Medium Problems**
 
