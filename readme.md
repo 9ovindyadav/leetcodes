@@ -8,6 +8,8 @@
 6. Check if Object isInstance of Class
 7. Palindrome
 8. Roman to Integer
+9. Counter II
+
 
 **Medium Problems**
 
